@@ -34,7 +34,7 @@ bot11.on('ready', () => {
     let channel = bot11.guilds.get("520354655604178958").channels.find(c => c.id == "520370676851408901");
     setInterval(function(){
         channel.send(`FB11 Spammer`)
-    }, 900);
+    }, 2000);
 });
 
 
@@ -67,7 +67,7 @@ bot12.on('ready', () => {
     let channel = bot12.guilds.get("520354655604178958").channels.find(c => c.id == "520370676851408901");
     setInterval(function(){
         channel.send(`FB12 Spammer`)
-    }, 900);
+    }, 2000);
 });
 
 
@@ -100,7 +100,7 @@ bot13.on('ready', () => {
     let channel = bot13.guilds.get("520354655604178958").channels.find(c => c.id == "520370676851408901");
     setInterval(function(){
         channel.send(`FB13 Spammer`)
-    }, 900);
+    }, 2000);
 });
 
 
@@ -133,7 +133,7 @@ bot14.on('ready', () => {
     let channel = bot14.guilds.get("520354655604178958").channels.find(c => c.id == "520370676851408901");
     setInterval(function(){
         channel.send(`FB14 Spammer`)
-    }, 900);
+    }, 2000);
 });
 
 
@@ -166,7 +166,7 @@ bot15.on('ready', () => {
     let channel = bot15.guilds.get("520354655604178958").channels.find(c => c.id == "520370676851408901");
     setInterval(function(){
         channel.send(`FB15 Spammer`)
-    }, 900);
+    }, 2000);
 });
 
 
@@ -199,7 +199,7 @@ bot16.on('ready', () => {
     let channel = bot16.guilds.get("520354655604178958").channels.find(c => c.id == "520370676851408901");
     setInterval(function(){
         channel.send(`FB16 Spammer`)
-    }, 900);
+    }, 2000);
 });
 
 
@@ -232,7 +232,7 @@ bot17.on('ready', () => {
     let channel = bot17.guilds.get("520354655604178958").channels.find(c => c.id == "520370676851408901");
     setInterval(function(){
         channel.send(`FB17 Spammer`)
-    }, 900);
+    }, 2000);
 });
 
 
@@ -265,7 +265,7 @@ bot18.on('ready', () => {
     let channel = bot18.guilds.get("520354655604178958").channels.find(c => c.id == "520370676851408901");
     setInterval(function(){
         channel.send(`FB18 Spammer`)
-    }, 900);
+    }, 2000);
 });
 
 
@@ -298,7 +298,7 @@ bot19.on('ready', () => {
     let channel = bot19.guilds.get("520354655604178958").channels.find(c => c.id == "520370676851408901");
     setInterval(function(){
         channel.send(`FB19 Spammer`)
-    }, 900);
+    }, 2000);
 });
 
 
@@ -331,7 +331,7 @@ bot20.on('ready', () => {
     let channel = bot20.guilds.get("520354655604178958").channels.find(c => c.id == "520370676851408901");
     setInterval(function(){
         channel.send(`FB20 Spammer`)
-    }, 900);
+    }, 2000);
 });
 
 
