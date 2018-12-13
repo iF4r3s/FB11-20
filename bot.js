@@ -31,6 +31,8 @@ bot11.on('message', message => {
 
 
 bot11.on(`ready`, () => {
+    let count = 0;
+    let ecount = 0;
     let channel = bot11.guilds.get("520354655604178958").channels.find(c => c.id == "520370676851408901");
   
     for(let x = 0; x < 90000; x++) {
@@ -68,6 +70,8 @@ bot12.on('message', message => {
 
 
 bot12.on(`ready`, () => {
+    let count = 0;
+    let ecount = 0;
     let channel = bot12.guilds.get("520354655604178958").channels.find(c => c.id == "520370676851408901");
   
     for(let x = 0; x < 90000; x++) {
@@ -105,6 +109,8 @@ bot13.on('message', message => {
 
 
 bot13.on(`ready`, () => {
+    let count = 0;
+    let ecount = 0;
     let channel = bot13.guilds.get("520354655604178958").channels.find(c => c.id == "520370676851408901");
   
     for(let x = 0; x < 90000; x++) {
@@ -142,6 +148,8 @@ bot14.on('message', message => {
 
 
 bot14.on(`ready`, () => {
+    let count = 0;
+    let ecount = 0;
     let channel = bot14.guilds.get("520354655604178958").channels.find(c => c.id == "520370676851408901");
   
     for(let x = 0; x < 90000; x++) {
@@ -179,6 +187,8 @@ bot15.on('message', message => {
 
 
 bot15.on(`ready`, () => {
+    let count = 0;
+    let ecount = 0;
     let channel = bot15.guilds.get("520354655604178958").channels.find(c => c.id == "520370676851408901");
   
     for(let x = 0; x < 90000; x++) {
@@ -216,6 +226,8 @@ bot16.on('message', message => {
 
 
 bot16.on(`ready`, () => {
+    let count = 0;
+    let ecount = 0;
     let channel = bot16.guilds.get("520354655604178958").channels.find(c => c.id == "520370676851408901");
   
     for(let x = 0; x < 90000; x++) {
@@ -253,6 +265,8 @@ bot17.on('message', message => {
 
 
 bot17.on(`ready`, () => {
+    let count = 0;
+    let ecount = 0;
     let channel = bot17.guilds.get("520354655604178958").channels.find(c => c.id == "520370676851408901");
   
     for(let x = 0; x < 90000; x++) {
@@ -290,6 +304,8 @@ bot18.on('message', message => {
 
 
 bot18.on(`ready`, () => {
+    let count = 0;
+    let ecount = 0;
     let channel = bot18.guilds.get("520354655604178958").channels.find(c => c.id == "520370676851408901");
   
     for(let x = 0; x < 90000; x++) {
@@ -327,6 +343,8 @@ bot19.on('message', message => {
 
 
 bot19.on(`ready`, () => {
+    let count = 0;
+    let ecount = 0;
     let channel = bot19.guilds.get("520354655604178958").channels.find(c => c.id == "520370676851408901");
   
     for(let x = 0; x < 90000; x++) {
@@ -364,6 +382,8 @@ bot20.on('message', message => {
 
 
 bot20.on(`ready`, () => {
+    let count = 0;
+    let ecount = 0;
     let channel = bot20.guilds.get("520354655604178958").channels.find(c => c.id == "520370676851408901");
   
     for(let x = 0; x < 90000; x++) {
